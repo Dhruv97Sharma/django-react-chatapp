@@ -1,0 +1,7 @@
+openapi: 3.0.3
+info:
+  title: Chatapp APIs
+  version: 1.0.0
+  description: Chat application APIs
+paths: {}
+components: {}
